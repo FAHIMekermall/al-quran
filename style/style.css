@@ -3,9 +3,12 @@
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.2rem;
 }
-header{
+header, footer{
     display: flex;
     justify-content: center;
+}
+footer .home{
+    font-size: 0.9rem;
 }
 .home{
     text-decoration: none;
