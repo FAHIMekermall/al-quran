@@ -1,4 +1,4 @@
-assalamualaikum all vai(broters) o bon (sister);
+assalamualaikum all brothers & sisters;
 
 It's a simple al quran web application.
 I'm trying to develop it.
