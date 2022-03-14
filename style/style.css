@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2rem;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.home{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 5vh;
+    padding: 10px;
+}
+.card-body{
+    background-color: rgba(228, 158, 92, 0.281);
+    border-radius: 15px;
+    border: 2px solid rgba(199, 74, 74, 0.288);
+}
+.card{
+    border: 0px solid red !important;
+}
